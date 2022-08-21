@@ -1,0 +1,30 @@
+C:\Users\This PC\Desktop\DemoPrn\Ass03Solution_SE1625_SE150781\Data\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\This PC\Desktop\DemoPrn\Ass03Solution_SE1625_SE150781\Data\bin\Debug\net5.0\DataAccess.dll
+C:\Users\This PC\Desktop\DemoPrn\Ass03Solution_SE1625_SE150781\Data\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\This PC\Desktop\DemoPrn\Ass03Solution_SE1625_SE150781\Data\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\This PC\Desktop\DemoPrn\Ass03Solution_SE1625_SE150781\Data\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\This PC\Desktop\DemoPrn\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\This PC\Desktop\DemoPrn\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This PC\Desktop\DemoPrn\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\This PC\Desktop\DemoPrn\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\This PC\Desktop\DemoPrn\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\This PC\Desktop\DemoPrn\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\This PC\Desktop\DemoPrn\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.dll
+C:\Users\This PC\Desktop\DemoPrn\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\This PC\Desktop\DemoPrn\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\This PC\Desktop\DemoPrn\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM_3w\New folder (4)\Ass03Solution_SE1625_SE150781\Data\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM_3w\New folder (4)\Ass03Solution_SE1625_SE150781\Data\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM_3w\New folder (4)\Ass03Solution_SE1625_SE150781\Data\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM_3w\New folder (4)\Ass03Solution_SE1625_SE150781\Data\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM_3w\New folder (4)\Ass03Solution_SE1625_SE150781\Data\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM_3w\New folder (4)\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM_3w\New folder (4)\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM_3w\New folder (4)\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM_3w\New folder (4)\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM_3w\New folder (4)\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM_3w\New folder (4)\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM_3w\New folder (4)\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM_3w\New folder (4)\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM_3w\New folder (4)\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM_3w\New folder (4)\Ass03Solution_SE1625_SE150781\Data\obj\Debug\net5.0\ref\DataAccess.dll
