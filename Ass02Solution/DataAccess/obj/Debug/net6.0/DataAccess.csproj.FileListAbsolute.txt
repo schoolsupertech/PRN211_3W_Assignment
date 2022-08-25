@@ -1,0 +1,15 @@
+D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
