@@ -27,7 +27,7 @@ public partial class frmMain : Form {
     private void btnProduct_Click(object sender, EventArgs e) {
         if(!CheckExistForm("frmProducts")) {
             frmProducts product = new frmProducts() {
-                //isAdmin = this.isAdmin
+                isAdmin = this.isAdmin
             };
             product.MdiParent = this;
             product.Show();
@@ -40,8 +40,8 @@ public partial class frmMain : Form {
     private void btnOrder_Click(object sender, EventArgs e) {
         if (!CheckExistForm("frmOrders")) {
             frmOrders order = new frmOrders() {
-                //isAdmin = this.isAdmin,
-                //id = this.id
+                isAdmin = this.isAdmin,
+                id = this.id
             };
             order.MdiParent = this;
             order.Show();

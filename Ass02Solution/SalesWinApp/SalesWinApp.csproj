@@ -9,6 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="frmOrderDDtails.Designer.cs~RF160efde.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Nancy" Version="2.0.0" />
   </ItemGroup>
 

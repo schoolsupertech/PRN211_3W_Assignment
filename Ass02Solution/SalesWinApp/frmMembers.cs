@@ -31,7 +31,6 @@ namespace SalesWinApp {
                 btnSearch.Enabled = false;
             }
             else {
-                btnDelete.Enabled = false;
                 // Register this event to open the frmMemberDetail from that performs updating
                 dgvMemberList.CellDoubleClick += dgvMemberList_CellDoubleClick;
             }
@@ -97,7 +96,14 @@ namespace SalesWinApp {
                     }
                 }
                 else {
-                    source.DataSource = members.OrderByDescending(member => member.Email);
+                    source.DataSource = members.OrderBy(member => member.Email);
+                    if (members.Count() == 0) {
+                        ClearText();
+                        btnDelete.Enabled = false;
+                    }
+                    else {
+                        btnDelete.Enabled = true;
+                    }
                 }
 
                 /*
@@ -119,15 +125,7 @@ namespace SalesWinApp {
                 cboCountry.DataBindings.Add("Text", source, "Country");
 
                 dgvMemberList.DataSource = null;
-                dgvMemberList.DataSource = members;
-
-                if(members.Count() == 0) {
-                    ClearText();
-                    btnDelete.Enabled = false;
-                }
-                else {
-                    btnDelete.Enabled = true;
-                }
+                dgvMemberList.DataSource = source;
             }
             catch(Exception ex) {
                 MessageBox.Show(ex.Message);
@@ -297,6 +295,10 @@ namespace SalesWinApp {
 
         private void btnClose_Click(object sender, EventArgs e) {
             Close();
+        }
+
+        private void btnReload_Click(object sender, EventArgs e) {
+            LoadMemberList();
         }
     }
 }

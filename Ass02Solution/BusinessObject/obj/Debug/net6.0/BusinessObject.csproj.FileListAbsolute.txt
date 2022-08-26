@@ -12,3 +12,17 @@ D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\
 D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
 D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
 D:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+E:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+E:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+E:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+E:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+E:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+E:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+E:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+E:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+E:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+E:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+E:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+E:\FPT Leaner\PRN211\PRN211_3W_SU22_024\Workspace\Assignment_02_SalesManagement\Ass02Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

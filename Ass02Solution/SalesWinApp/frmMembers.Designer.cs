@@ -45,6 +45,7 @@
             this.cboCountry = new System.Windows.Forms.ComboBox();
             this.btnFind = new System.Windows.Forms.Button();
             this.lbSearch = new System.Windows.Forms.Label();
+            this.btnReload = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvMemberList)).BeginInit();
             this.SuspendLayout();
             // 
@@ -195,7 +196,7 @@
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(144, 142);
+            this.btnDelete.Location = new System.Drawing.Point(240, 142);
             this.btnDelete.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(82, 22);
@@ -238,7 +239,6 @@
             this.dgvMemberList.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvMemberList.Size = new System.Drawing.Size(676, 150);
             this.dgvMemberList.TabIndex = 55;
-            this.dgvMemberList.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvMemberList_CellDoubleClick);
             // 
             // txtSearch
             // 
@@ -294,11 +294,23 @@
             this.lbSearch.TabIndex = 57;
             this.lbSearch.Text = "Input ID/Name";
             // 
+            // btnReload
+            // 
+            this.btnReload.Location = new System.Drawing.Point(133, 142);
+            this.btnReload.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnReload.Name = "btnReload";
+            this.btnReload.Size = new System.Drawing.Size(82, 22);
+            this.btnReload.TabIndex = 58;
+            this.btnReload.Text = "&Reload";
+            this.btnReload.UseVisualStyleBackColor = true;
+            this.btnReload.Click += new System.EventHandler(this.btnReload_Click);
+            // 
             // frmMembers
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(700, 392);
+            this.Controls.Add(this.btnReload);
             this.Controls.Add(this.lbSearch);
             this.Controls.Add(this.btnFind);
             this.Controls.Add(this.cboSearchCity);
@@ -356,5 +368,6 @@
         private System.Windows.Forms.ComboBox cboSearchCity;
         private System.Windows.Forms.Button btnFind;
         private System.Windows.Forms.Label lbSearch;
+        private Button btnReload;
     }
 }
