@@ -1,9 +1,8 @@
 # PRN211_3W_Assignment Repo
-## You will find in this repo the following stuff:
+## You will find in this repo the following stuff :
 * Source code 
 * Script database
-* Available 
-* Entity Framework Core
+* Available Entity Framework Core
 * ...
 
 ### Member :
